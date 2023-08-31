@@ -41,7 +41,7 @@ void shopping::menu() {
     cout << "\t\t\t\t|            3) Exit                   |\n";
     cout << "\t\t\t\t|                                      |\n";
     cout << "\t\t\t\t|______________________________________|\n";
-    cout << "\n\t\t\t\t           Please select!\n";
+    cout << "\n\t\t\t\t           Please select !!!\n";
     cout << "\n\t\t\t\t           \n";
     cin >> choice;
 
